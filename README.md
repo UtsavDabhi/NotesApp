@@ -7,4 +7,4 @@ Features of NoteApp
 4)Staggered Recycleview To show notes 
 5)User is able to Update and Delete Note
 6)All Data Stored in Cloud Firestore
-7)Rendom Color Apply on Every Time on Every Note
+7)Random Color Apply on Every Time on Every Note
