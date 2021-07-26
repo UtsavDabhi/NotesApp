@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string name="nice_to_see_you_here">Nice to See You Here</string>
+    <string name="new_user">New User</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="sign_up">Sign-Up</string>
+    <string name="want_to_login">Want To Login?</string>
+
+    <string name="hello_how_are_you">Hello how are you</string>
+    <string name="todo">TODO</string>
+    <string name="i_am_fine_bro">I am Fine Bro</string>
+</resources>
